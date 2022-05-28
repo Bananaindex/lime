@@ -41,3 +41,6 @@ pre,
 code {
   background-color: #fafafa;
 }
+a {
+  text-decoration: none;
+}
