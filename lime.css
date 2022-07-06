@@ -44,11 +44,6 @@ code {
 a {
   text-decoration: none;
 }
-
-html, body {
-  height: 100%;
-  width: 100%;
-}
 @media (prefers-color-scheme: dark) {
   /* Invert all elements on the body while attempting to not alter the hue substantially. */
   body {
